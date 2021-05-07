@@ -3,7 +3,7 @@
   # José Julio Umbelino
 
 - 🔭 I’m currently working on Java
-- 🌱 I’m currently learning Dart, Flutter, NodeJS, ReactJS, React native
+- 🌱 I’m currently learning Dart, Flutter
 - 🔍 Currently open to new opportunities
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josejulioumbelino.dev@gmail.com)](mailto:josejulioumbelino.dev@gmail.com)
