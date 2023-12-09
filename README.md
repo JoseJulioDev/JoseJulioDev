@@ -21,7 +21,7 @@
 
 ## 📱 Contatos  📱
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:josejulioumbelino.dev@gmail.com)](mailto:josejulioumbelino.dev@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-julio-umbelino-57264b209/)](https://www.linkedin.com/in/jos%C3%A9-julio-umbelino-57264b209/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-julio-umbelino-57264b209/)](https://www.linkedin.com/in/jose-julio-umbelino-dev/)
 [![Whatsqqp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5562994265580text=Hello!)](https://api.whatsapp.com/send?phone=5562994265580@text=Hello!)
 
 
